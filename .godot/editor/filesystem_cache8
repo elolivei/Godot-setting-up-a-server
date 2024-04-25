@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714077366
+Client.gd::GDScript::-1::1713025568::0::1::::<>Node<>::
+Client.tscn::PackedScene::3121067867639375387::1714077280::0::1::::<><>::res://Client.gd
+icon.svg::CompressedTexture2D::7257111489890344610::1714076198::1714076213::1::::<><>::
+MainMenu.gd::GDScript::-1::1714077278::0::1::::<>Control<>::
+MainMenu.tscn::PackedScene::5445612241488084973::1714077280::0::1::::<><>::res://MainMenu.gd
+Server.gd::GDScript::-1::1713025568::0::1::::<>Node<>::
+Server.tscn::PackedScene::1173335449375996884::1714077280::0::1::::<><>::res://Server.gd
